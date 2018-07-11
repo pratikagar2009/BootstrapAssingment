@@ -1,0 +1,34 @@
+@import url("https://use.fontawesome.com/releases/v5.1.0/css/all.css");
+
+body{
+    background: black;
+}
+
+.jumbotron h1,p{
+    text-align: center;
+}
+
+.jumbotron img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100%;
+    width: 100%;
+}
+
+.row{
+    align-items: center;
+}
+
+.card {
+    padding: 2rem;
+}
+
+#bestseller{
+    padding: 2rem;
+}
+
+#bestselle{
+    padding: 2rem;
+}
+
